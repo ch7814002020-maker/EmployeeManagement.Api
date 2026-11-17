@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+EmployeeManagement.Api/appsettings.json
+EmployeeManagement.Api/appsettings.Development.json
